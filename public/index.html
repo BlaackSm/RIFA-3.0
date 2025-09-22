@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Rifa Poços</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <h1>Rifa Poços</h1>
+  <div id="contador-topo">Vendidos: 0 | Restantes: 100</div>
+  <p id="note">Preencha nome e telefone para selecionar números.</p>
+</header>
+
+<main>
+  <section id="controls">
+    <label>Rifa:
+      <select id="rifa-selecionada"></select>
+    </label>
+  </section>
+
+  <section id="user-form">
+    <h3 class="form-title">Identificação do Comprador</h3>
+    <input id="nome-comprador" placeholder="Seu nome" />
+    <input id="telefone-comprador" placeholder="Telefone / contato" />
+    <button id="confirmar-selecao">Confirmar seleção e gerar PIX</button>
+  </section>
+
+  <section id="cartela-area">
+    <div id="cartela-container"></div>
+  </section>
+
+  <section id="pix-container" style="display:none">
+    <h3>Pagamento PIX</h3>
+    <div id="pix-info"></div>
+    <input id="pix-copia-cola" readonly />
+    <button id="copiar-pix">Copiar chave PIX</button>
+  </section>
+
+  <section id="organizer-area">
+    <button id="abrir-login-admin">Área do Organizador</button>
+
+    <div id="login-admin" style="display:none">
+      <input type="password" id="senha-admin" placeholder="Senha do organizador" />
+      <button id="btn-login-admin">Entrar</button>
+      <div id="login-msg" style="color:red"></div>
+    </div>
+
+    <div id="admin-container" style="display:none">
+      <h3>Compradores pendentes</h3>
+      <ul id="lista-organizador"></ul>
+    </div>
+  </section>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>

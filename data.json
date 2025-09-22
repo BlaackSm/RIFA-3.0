@@ -1,0 +1,2122 @@
+{
+  "rifas": [
+    {
+      "nome": "Rifa 1",
+      "valor": 3,
+      "cartela": [
+        {
+          "numero": "00",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "01",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "02",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "03",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "04",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "05",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "06",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "07",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "08",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "09",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "10",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "11",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "12",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "13",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "14",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "15",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "16",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "17",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "18",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "19",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "20",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "21",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "22",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "23",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "24",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "25",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "26",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "27",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "28",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "29",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "30",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "31",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "32",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "33",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "34",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "35",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "36",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "37",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "38",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "39",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "40",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "41",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "42",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "43",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "44",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "45",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "46",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "47",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "48",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "49",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "50",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "51",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "52",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "53",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "54",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "55",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "56",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "57",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "58",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "59",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "60",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "61",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "62",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "63",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "64",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "65",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "66",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "67",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "68",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "69",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "70",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "71",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "72",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "73",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "74",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "75",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "76",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "77",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "78",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "79",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "80",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "81",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "82",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "83",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "84",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "85",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "86",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "87",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "88",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "89",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "90",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "91",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "92",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "93",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "94",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "95",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "96",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "97",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "98",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "99",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        }
+      ]
+    },
+    {
+      "nome": "Rifa 2",
+      "valor": 5,
+      "cartela": [
+        {
+          "numero": "00",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "01",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "02",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "03",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "04",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "05",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "06",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "07",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "08",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "09",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "10",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "11",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "12",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "13",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "14",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "15",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "16",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "17",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "18",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "19",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "20",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "21",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "22",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "23",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "24",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "25",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "26",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "27",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "28",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "29",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "30",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "31",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "32",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "33",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "34",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "35",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "36",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "37",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "38",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "39",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "40",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "41",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "42",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "43",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "44",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "45",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "46",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "47",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "48",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "49",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "50",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "51",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "52",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "53",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "54",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "55",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "56",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "57",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "58",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "59",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "60",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "61",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "62",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "63",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "64",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "65",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "66",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "67",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "68",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "69",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "70",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "71",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "72",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "73",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "74",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "75",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "76",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "77",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "78",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "79",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "80",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "81",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "82",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "83",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "84",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "85",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "86",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "87",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "88",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "89",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "90",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "91",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "92",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "93",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "94",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "95",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "96",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "97",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "98",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "99",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        }
+      ]
+    },
+    {
+      "nome": "Rifa 3",
+      "valor": 10,
+      "cartela": [
+        {
+          "numero": "00",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "01",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "02",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "03",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "04",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "05",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "06",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "07",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "08",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "09",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "10",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "11",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "12",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "13",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "14",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "15",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "16",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "17",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "18",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "19",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "20",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "21",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "22",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "23",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "24",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "25",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "26",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "27",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "28",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "29",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "30",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "31",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "32",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "33",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "34",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "35",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "36",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "37",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "38",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "39",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "40",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "41",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "42",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "43",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "44",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "45",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "46",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "47",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "48",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "49",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "50",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "51",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "52",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "53",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "54",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "55",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "56",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "57",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "58",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "59",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "60",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "61",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "62",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "63",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "64",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "65",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "66",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "67",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "68",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "69",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "70",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "71",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "72",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "73",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "74",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "75",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "76",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "77",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "78",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "79",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "80",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "81",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "82",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "83",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "84",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "85",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "86",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "87",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "88",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "89",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "90",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "91",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "92",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "93",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "94",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "95",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "96",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "97",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "98",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        },
+        {
+          "numero": "99",
+          "status": "disponivel",
+          "comprador": null,
+          "telefone": null,
+          "timestamp": null
+        }
+      ]
+    }
+  ]
+}
